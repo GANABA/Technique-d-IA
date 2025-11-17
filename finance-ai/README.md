@@ -22,4 +22,4 @@ AI Finance Coach — Guide rapide
    - Modifie utils/mistral_api.py si ton fournisseur a un format différent.
 
 Disclaimer :
-Ce prototype donne des estimations et des conseils génériques. Il n'est pas un conseil financier professionnel. Avertis les utilisateurs dans l'app.
+Ce prototype donne des estimations et des conseils génériques. Il n'est pas un conseil financier professionnel.
